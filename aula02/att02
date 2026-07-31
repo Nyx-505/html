@@ -1,0 +1,30 @@
+<!-- ATIVIDADE 02 -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Any">
+    <title>Atividade 02 - Imagens Online e Locais</title>
+</head>
+<body>
+
+    <!-- 1. Imagens Online -->
+   
+        <h2>Imagens Online</h2>
+        <img src="https://picsum.photos/200/300?random=1" alt="Paisagem natural 1">
+        <img src="https://picsum.photos/200/300?random=2" alt="Paisagem natural 2">
+        <img src="https://picsum.photos/200/300?random=3" alt="Paisagem natural 3">
+        <img src="https://picsum.photos/200/300?random=4" alt="Paisagem natural 4">
+        <img src="https://picsum.photos/200/300?random=5" alt="Paisagem natural 5">
+    
+    <!-- 2. Imagens Locais -->
+        <h2>Imagens Locais</h2>
+        <img src="./img/images.jpg" alt="Descrição da Imagem Local 1">
+        <img src="./img/images (1).jpg" alt="Descrição da Imagem Local 2">
+        <img src="./img/images (2).jpg" alt="Descrição da Imagem Local 3">
+        <img src="./img/images (3).jpg" alt="Descrição da Imagem Local 4">
+        <img src="./img/images (4).jpg" alt="Descrição da Imagem Local 5">
+    
+</body>
+</html>

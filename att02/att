@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Any">
+    <title>Atividade 02 - Imagens Online e Locais</title>
+</head>
+<body>
+
+    <!-- 1. Imagens Online (Links da Web) -->
+    <h2>Imagens Online</h2>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Panda_3.jpg/320px-Red_Panda_3.jpg" alt="Panda Vermelho" width="200">
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Tiger_in_AAB.jpg/320px-Tiger_in_AAB.jpg" alt="Tigre" width="200">
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosser_Panda.JPG/320px-Grosser_Panda.JPG" alt="Panda Gigante" width="200">
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lion_waiting_in_Namibia.jpg/320px-Lion_waiting_in_Namibia.jpg" alt="Leão" width="200">
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/African_Bush_Elephant.jpg/320px-African_Bush_Elephant.jpg" alt="Elefante Africano" width="200">
+
+    <hr>
+
+    <!-- 2. Imagens Locais -->
+    <h2>Imagens Locais</h2>
+
+    <img src="foto1.jpg" alt="Imagem local 1" width="200">
+    <img src="foto2.jpg" alt="Imagem local 2" width="200">
+    <img src="foto3.jpg" alt="Imagem local 3" width="200">
+    <img src="foto4.jpg" alt="Imagem local 4" width="200">
+    <img src="foto5.jpg" alt="Imagem local 5" width="200">
+
+</body>
+</html>
